@@ -14,6 +14,17 @@
 
 ##### Telegram群组： [mini](https://t.me/Orz_mini)
 
+### 图标集订阅（Egern 等）：
+
+按图标数量由少到多：
+
+- Alpha 订阅类型（10）：`https://raw.githubusercontent.com/Jackjackca/mini/master/alpha-types.json`
+- Color 订阅类型（10）：`https://raw.githubusercontent.com/Jackjackca/mini/master/color-types.json`
+- Alpha 机场（87）：`https://raw.githubusercontent.com/Jackjackca/mini/master/alpha-airports.json`
+- Color 机场（87）：`https://raw.githubusercontent.com/Jackjackca/mini/master/color-airports.json`
+- Color 通用（236）：`https://raw.githubusercontent.com/Jackjackca/mini/master/color-general.json`
+- Alpha 通用（315）：`https://raw.githubusercontent.com/Jackjackca/mini/master/alpha-general.json`
+
 ### Quantumult X使用方法：
 
 ####  1、订阅图标
